@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
-     instagram - sandip__kr_
+     instagram - _san.dip
 
 <!---
 Sndipkr/Sndipkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
