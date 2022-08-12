@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sndipkr
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Programming
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently Data Analysis
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me 
      instagram - _san.dip
